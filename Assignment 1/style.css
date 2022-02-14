@@ -1,0 +1,87 @@
+<<<<<<< HEAD
+body{
+    margin:0;
+}
+#container{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    padding:1% 2% 5% 2%;
+    margin:5% 30% 0 30%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+/* heading */
+
+#heading{
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+/* time */
+
+#time{
+    font-size: 2rem;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    margin:5% 30%;
+    padding:2% 2%;
+}
+
+/* button */
+.btn{
+    font-size: 1rem;
+    padding:1% 5%;
+    margin:0 5%;
+    border-radius: 5px;
+}
+.btn:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    cursor: pointer;
+}
+.btn:active{
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+}
+=======
+body{
+    margin:0;
+}
+#container{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    padding:1% 2% 5% 2%;
+    margin:5% 30% 0 30%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+/* heading */
+
+#heading{
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+/* time */
+
+#time{
+    font-size: 2rem;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    margin:5% 30%;
+    padding:2% 2%;
+}
+
+/* button */
+.btn{
+    font-size: 1rem;
+    padding:1% 5%;
+    margin:0 5%;
+    border-radius: 5px;
+}
+.btn:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    cursor: pointer;
+}
+.btn:active{
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+}
+>>>>>>> 083dd4c7b65b513ca59b6d88ccd94e7be7728b85
